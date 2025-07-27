@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header,
+footer {
+    color: #000;
+}
+
+header h1,
+header p,
+footer p {
+    color: #fff;
+    }
+
